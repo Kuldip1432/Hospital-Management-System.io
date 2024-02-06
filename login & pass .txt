@@ -1,0 +1,11 @@
+patient@hms.com
+
+nurse@hms.com
+
+pharmacist@hms.com
+
+accountant@hms.com
+
+laboratorist@hms.com
+
+receptionist@hms.com
