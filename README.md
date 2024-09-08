@@ -1,4 +1,5 @@
-#Hospital Management System
+# Hospital Management System
+
 **Technologies**
 - Php
 - MySQL
